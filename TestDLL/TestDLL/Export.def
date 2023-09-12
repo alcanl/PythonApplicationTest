@@ -1,0 +1,5 @@
+#pragma once
+LIBRARY  Export
+EXPORTS
+add @1
+
