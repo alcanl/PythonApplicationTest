@@ -1,0 +1,5 @@
+﻿  dllmain.cpp
+Export.def(1): warning LNK4017: #pragma statement not supported for the target platform; ignored
+     Creating library C:\Users\alica\source\repos\TestDLL\x64\Debug\TestDLL.lib and object C:\Users\alica\source\repos\TestDLL\x64\Debug\TestDLL.exp
+TestDLL.exp : warning LNK4070: /OUT:Export.dll directive in .EXP differs from output filename 'C:\Users\alica\source\repos\TestDLL\x64\Debug\TestDLL.dll'; ignoring directive
+  TestDLL.vcxproj -> C:\Users\alica\source\repos\TestDLL\x64\Debug\TestDLL.dll
